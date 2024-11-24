@@ -16,5 +16,4 @@ if value==player:
     print("Game Over")
 
 else:
-    print("Keep Playing!")
     play()
